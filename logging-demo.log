@@ -1,0 +1,29 @@
+2020-07-26 15:17:11,718(YYYY-MM-DD HH:mm:ss} INFO  SimpleAndCompoundInterest:89-Execution Started !!!
+2020-07-26 15:17:11,724(YYYY-MM-DD HH:mm:ss} INFO  SimpleAndCompoundInterest:91-Reading Data Started !!!
+2020-07-26 15:17:11,726(YYYY-MM-DD HH:mm:ss} INFO  SimpleAndCompoundInterest:94-Enter the Principal Amount : 
+2020-07-26 15:17:11,726(YYYY-MM-DD HH:mm:ss} DEBUG ReadData:26-Entered into ReadData.getData() Method
+2020-07-26 15:17:11,727(YYYY-MM-DD HH:mm:ss} DEBUG ReadData:28-Returning the value....
+2020-07-26 15:17:11,727(YYYY-MM-DD HH:mm:ss} DEBUG SimpleAndCompoundInterest:97-Received Principal Amount
+2020-07-26 15:17:11,728(YYYY-MM-DD HH:mm:ss} INFO  SimpleAndCompoundInterest:100-
+Enter the Time period(in Years : 
+2020-07-26 15:17:11,728(YYYY-MM-DD HH:mm:ss} DEBUG ReadData:26-Entered into ReadData.getData() Method
+2020-07-26 15:17:11,729(YYYY-MM-DD HH:mm:ss} DEBUG ReadData:28-Returning the value....
+2020-07-26 15:17:11,729(YYYY-MM-DD HH:mm:ss} DEBUG SimpleAndCompoundInterest:102-Received TimePeriod Amount
+2020-07-26 15:17:11,729(YYYY-MM-DD HH:mm:ss} INFO  SimpleAndCompoundInterest:104-
+Enter the Rate Of Interest : 
+2020-07-26 15:17:11,729(YYYY-MM-DD HH:mm:ss} DEBUG ReadData:26-Entered into ReadData.getData() Method
+2020-07-26 15:17:11,730(YYYY-MM-DD HH:mm:ss} DEBUG ReadData:28-Returning the value....
+2020-07-26 15:17:11,730(YYYY-MM-DD HH:mm:ss} DEBUG SimpleAndCompoundInterest:107-Received Rate of Interest
+2020-07-26 15:17:11,732(YYYY-MM-DD HH:mm:ss} INFO  SimpleAndCompoundInterest:110-Object Created for SimpleInterest class
+2020-07-26 15:17:11,732(YYYY-MM-DD HH:mm:ss} DEBUG SimpleInterest:44-Entered into SimpleInterest class 
+2020-07-26 15:17:11,732(YYYY-MM-DD HH:mm:ss} INFO  SimpleInterest:45-Calculating Simple Interest......
+2020-07-26 15:17:11,732(YYYY-MM-DD HH:mm:ss} INFO  SimpleInterest:56-Output Calculated Simple Interest
+2020-07-26 15:17:11,735(YYYY-MM-DD HH:mm:ss} DEBUG SimpleInterest:57-Simple Interest :%.3f
+
+2020-07-26 15:17:11,735(YYYY-MM-DD HH:mm:ss} INFO  SimpleAndCompoundInterest:115-Object Created for CompoundInterest class
+2020-07-26 15:17:11,736(YYYY-MM-DD HH:mm:ss} DEBUG CompoundInterest:70-Entered into CompoundInterest class 
+2020-07-26 15:17:11,736(YYYY-MM-DD HH:mm:ss} INFO  CompoundInterest:71-Calculating Compound Interest......
+2020-07-26 15:17:11,737(YYYY-MM-DD HH:mm:ss} INFO  CompoundInterest:79-Output Calculated Compound Interest
+2020-07-26 15:17:11,737(YYYY-MM-DD HH:mm:ss} DEBUG CompoundInterest:80-Compound Interest :%.3f
+
+2020-07-26 15:17:11,737(YYYY-MM-DD HH:mm:ss} DEBUG SimpleAndCompoundInterest:121-Program Terminated Successfully
